@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Samuel Aniekan 👋  
 
-<!--
-**DevladCodes/DevladCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my **new GitHub account**!  
+My original account contains a lot of private projects and collaborations, so I created this one as a **public portfolio** to showcase my personal and open-source work.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python 🐍 | JavaScript ⚡ | Learning Rust 🦀  
+- **Focus Areas:** Web development, APIs, automation, and exploring systems programming.  
+- **Tools & Platforms:** Git | Docker | Linux  
+
+---
+
+### 📌 What You’ll Find Here
+- Personal projects & experiments  
+- Open-source contributions  
+- Demos of what I’m learning  
+
+---
+
+### 🌱 Current Goals
+- Building more **Python automation and web projects**  
+- Learning **Rust fundamentals** through small projects  
+- Sharing my journey and progress here on GitHub  
+
+---
+
+⭐ Feel free to explore my repositories, and don’t hesitate to reach out!
