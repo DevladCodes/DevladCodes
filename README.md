@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jade Tepesh
+# 👋 Hey, I'm Samuel Aniekan
 
 🚀 Full-Stack Developer | Backend-Focused Engineer | System Builder  
 
@@ -66,11 +66,11 @@ Currently evolving into an **advanced engineer** by working on complex, high-per
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevladCodes&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevladCodes&theme=tokyonight" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Currently evolving into an **advanced engineer** by working on complex, high-per
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevladCodes&theme=tokyo-night" />
 </p>
 
 ---
